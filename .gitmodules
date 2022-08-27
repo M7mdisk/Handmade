@@ -1,0 +1,6 @@
+[submodule "handmadedb"]
+	path = handmadedb
+	url =  https://github.com/M7mdisk/handmade-db
+[submodule "handmadelisp"]
+	path = handmadelisp
+	url = https://github.com/M7mdisk/handmade-lisp
