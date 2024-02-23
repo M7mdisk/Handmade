@@ -4,3 +4,6 @@
 [submodule "handmadelisp"]
 	path = handmadelisp
 	url = https://github.com/M7mdisk/handmade-lisp
+[submodule "handmade-redis"]
+	path = handmade-redis
+	url = git@github.com:M7mdisk/handmade-redis
