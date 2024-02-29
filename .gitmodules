@@ -7,3 +7,6 @@
 [submodule "handmade-redis"]
 	path = handmade-redis
 	url = git@github.com:M7mdisk/handmade-redis
+[submodule "flasc"]
+	path = flasc
+	url = git@github.com:M7mdisk/flasc
